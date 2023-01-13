@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiorgiAbzianidzeSE
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Spring boot , Golang , TypeScript
+- 🌱 I’m currently learning Spring boot , Golang , Scala
 - 💞️ I’m looking to collaborate on Spring and it's releated projects
 - 📫 How to reach me: giorgiabzianidze26@gmail.com
 - Quote of my carrer: "May the Force be with you"
